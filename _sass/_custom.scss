@@ -4,6 +4,15 @@ body {
     "Apple Color Emoji", "Segoe UI Emoji";
 }
 
+/* Ensure images scale to their container */
+.post img,
+.page img,
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .ez-hero {
   margin-top: 1.75rem;
 }
