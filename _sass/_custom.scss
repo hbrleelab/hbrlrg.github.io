@@ -1,0 +1,58 @@
+/* EZ Lab inspired tweaks */
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial,
+    "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.ez-hero {
+  margin-top: 1.75rem;
+}
+
+.ez-hero__title {
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  margin-bottom: 0.2rem;
+}
+
+.ez-hero__subtitle {
+  font-size: 1.05rem;
+  margin-bottom: 0.1rem;
+}
+
+.ez-hero__pi {
+  margin-bottom: 0.5rem;
+}
+
+.ez-hero__banner {
+  width: 100%;
+  border-radius: 0.55rem;
+  margin-top: 0.55rem;
+}
+
+.ez-hero__caption {
+  font-size: 0.92rem;
+  opacity: 0.75;
+  margin-top: 0.45rem;
+}
+
+.ez-section {
+  margin-top: 2.1rem;
+}
+
+.ez-section__title {
+  font-weight: 800;
+  margin-bottom: 0.95rem;
+}
+
+.ez-bullets {
+  margin-top: 0.65rem;
+  margin-bottom: 0.75rem;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.footer {
+  margin-top: 2.5rem;
+}
