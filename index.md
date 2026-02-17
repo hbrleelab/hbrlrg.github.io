@@ -1,9 +1,11 @@
 ---
 layout: page
-title: HBRL Research Group
 permalink: /
+title:
 nav: false
+show_title: false
 ---
+
 
 ## Mission
 
