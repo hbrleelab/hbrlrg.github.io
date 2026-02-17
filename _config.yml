@@ -1,8 +1,13 @@
 title: E.Z. Lab
+
 remote_theme: alshedivat/al-folio@main
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-scholar
+
 baseurl: ""
 url: "https://hbrleelab.github.io"
+
 lang: en
 future: true
