@@ -2,9 +2,7 @@ title: hbrlrg.github.io
 remote_theme: alshedivat/al-folio@main
 plugins:
   - jekyll-remote-theme
-baseurl: ""
+baseurl: "/hbrlrg.github.io"
 url: "https://hbrleelab.github.io"
-# al-folio default language
 lang: en
-# don't fail build on future posts
 future: true
