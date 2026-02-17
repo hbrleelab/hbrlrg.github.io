@@ -1,8 +1,8 @@
-title: hbrlrg.github.io
+title: E.Z. Lab
 remote_theme: alshedivat/al-folio@main
 plugins:
   - jekyll-remote-theme
-baseurl: "/hbrlrg.github.io"
+baseurl: ""
 url: "https://hbrleelab.github.io"
 lang: en
 future: true
