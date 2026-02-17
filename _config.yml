@@ -9,5 +9,6 @@ baseurl: ""
 url: "https://hbrleelab.github.io"
 lang: en
 future: true
-include: ["_pages"]
+include:
+  - _pages
 max_width: 930px
