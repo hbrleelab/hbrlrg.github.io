@@ -2,11 +2,9 @@
 layout: page
 title: Publication
 permalink: /publication/
----
-
 nav: true
 nav_order: 3
-
+---
 
 # Publication
 
