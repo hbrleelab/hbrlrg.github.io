@@ -79,3 +79,20 @@ img {
   opacity: 0.75;
   margin-top: 0.3rem;
 }
+
+/* 컨텐츠 이미지 리사이징 */
+img,
+.post img,
+.page img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* 너무 큰 화면에서 폭이 튀는 경우 상한 제한 (원하면 조정) */
+.post img,
+.page img {
+  margin: 0 auto;
+  max-width: 930px;
+  width: 100%;
+}
