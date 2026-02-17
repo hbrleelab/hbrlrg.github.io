@@ -12,3 +12,13 @@ future: true
 include:
   - _pages
 max_width: 930px
+navbar_links:
+  - title: Team
+    url: /team/
+  - title: Research
+    url: /research/
+  - title: Publication
+    url: /publication/
+  - title: Tool
+    url: /tool/
+
