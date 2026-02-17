@@ -1,12 +1,8 @@
-- title: team
+- title: Team
   url: /team/
-- title: publications
-  url: /publications/
-- title: software
-  url: /software/
-- title: teaching
-  url: /teaching/
-- title: news
-  url: /news/
-- title: join
-  url: /contact/
+- title: Research
+  url: /research/
+- title: Publication
+  url: /publication/
+- title: Tool
+  url: /tool/
